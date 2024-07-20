@@ -75,40 +75,6 @@
     python manage.py runserver
     ```
 
-### Использование
-
-Для выполнения операций с книгами используйте следующие команды:
-
-- **Добавление книги**:
-
-    ```bash
-    python manage.py library_console add
-    ```
-
-- **Удаление книги**:
-
-    ```bash
-    python manage.py library_console delete
-    ```
-
-- **Поиск книги**:
-
-    ```bash
-    python manage.py library_console search
-    ```
-
-- **Отображение всех книг**:
-
-    ```bash
-    python manage.py library_console list
-    ```
-
-- **Изменение статуса книги**:
-
-    ```bash
-    python manage.py library_console update_status
-    ```
-
 ### Тестирование
 
 Для запуска тестов используйте команду:
